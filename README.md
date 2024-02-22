@@ -2,7 +2,7 @@
 Monte Carlo Simulations for European and Asian (Exotic) Options
 
 ### Summary
-Development of Monte Carlo simulations for 1000 iterations showcasing the accuracy of the method
+Development of Monte Carlo simulations for various iterations showcasing the accuracy of the method
 
 ### In Detail
 In this Excercise I have developed various functions, aiming to capture the accuracy of Monte Carlo Simulations comperative to the BlackScoles model.
